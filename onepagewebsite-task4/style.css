@@ -1,0 +1,36 @@
+.bg {
+    background-image: url("my.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+body,
+html {
+    margin: 0%;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color: rgb(148, 54, 25);
+    font-size: 25px;
+    padding: 14px 16px;
+}
+
+.bg1 {
+    background-image: url("about.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.bg2 {
+    background-image: url("contact.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
